@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 18 12:51:26 2025
 
-@author: User
-"""
 
 import streamlit as st
 import pickle
